@@ -1,5 +1,7 @@
 # 📊 Tubealytics: Analyzing YouTube’s Top Trends & Engagement Metrics
 
+Link to download the .twbx file: https://drive.google.com/drive/folders/1qG7_1h9bUXgLeWPSGixIMQ6AYpt0O9x1?usp=sharing
+
 🚀 Visualizing YouTube’s trending videos, top creators, and engagement trends using interactive Tableau dashboards.
 
 ## 📌 Project Overview
@@ -98,6 +100,6 @@ This project provides valuable insights for content creators, marketers, and ana
 
 1️⃣ Clone the repository: git clone https://github.com/YOUR_GITHUB_USERNAME/Tubealytics-YouTube-Trends.git
 
-2️⃣ Open Tableau Desktop and load Tubealytics.twbx.
+2️⃣ Open Tableau Desktop and load Tubealytics.twbx from the drive link.
 
 3️⃣ Explore the interactive dashboards to gain insights!
